@@ -13,7 +13,6 @@ body {
 }
 
 .main-image {
-	display: block;	
 	width: 500px;
 	z-index: 1;
 }
@@ -25,7 +24,6 @@ body {
 	padding-left: 20px;
 	z-index: 2;
 }
-
 
 .main-block {
 	background-color: #FFFFFF;

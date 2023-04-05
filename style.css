@@ -1,0 +1,196 @@
+body {
+	background-color: #EFF6FF;
+	font-family: "Barlow", sans-serif;
+	color: #2A4A5C;
+}
+
+
+.content {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 40px;
+}
+
+.main-image {
+	display: block;
+	width: 500px;
+}
+
+.images {
+	display: flex;
+	flex-direction: initial;
+}
+
+.main-block {
+	background-color: #FFFFFF;
+	padding-left: 50px;
+	padding-top: 50px;
+	width: 400px;
+	color: #2A4A5C;
+	line-height: 10px;
+	justify-content: center;
+}
+
+.header {
+	font-size: 18px;
+}
+
+.header1 {
+	font-size: 13px;
+	color: #7B8A92;
+}
+
+.sub-section {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.facebook-color {
+	background-color: #255A9B;
+}
+
+.linkedin-color {
+	background-color: #0076B6;
+}
+
+.social-login {
+	margin-top: 40px;
+}
+
+.social-login a {
+	display: inline-block;
+	vertical-align: middle;
+	height: 30px;
+	width: 165px;
+	box-sizing: border-box;
+	margin-right: 20px;
+	padding: 6px 6px;
+	text-decoration: none;
+}
+
+.social-login-text {
+	font-size: 9px;
+	color: #ffffff;
+	margin-left: 10px;
+	letter-spacing: 1px;
+}
+
+.or {
+	margin-top: 30px;
+ 	font-size: 8px;
+ 	margin-left: 80px;
+}
+
+.line {
+	color: #96A5B1;
+	opacity: 20%;
+}
+
+.subscribe {
+	margin-top: 30px;
+}
+
+.subscribe a {
+	display: inline-block;
+	vertical-align: middle;
+	height: 50px;
+	width: 165px;
+	margin-right: 20px;
+	box-sizing: border-box;
+	padding: 5px 5px;
+	background-color: #ffffff;
+  	border-top: 1px solid #EEEEEE;
+  	border-bottom: 1px solid #EEEEEE;
+  	border-right: 1px solid #EEEEEE;
+}
+
+.subscription {
+	background-color: transparent;
+	border: none;
+	padding-top: 7px;
+}
+
+.subscription-on {
+ 	border-left: 3px solid #3698FB;
+}
+
+.subscription-off {
+ 	border-left: 1px solid #EEEEEE;
+}
+
+.header2 {
+	font-size: 15px;
+	margin-top: 40px;
+}
+
+.header3 {
+	font-size: 11px;
+	color: #7B8A92;
+}
+
+ul {
+	margin-top: 30px;
+	margin-left: -40px;
+}
+
+ul li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	font-size: 12px;
+}
+
+.invest-type {
+	opacity: 50%;
+}
+
+.information {
+	opacity: 40%;
+	margin-left: 1px;
+	background-color: transparent;
+	border: none;
+}
+
+.information-details {
+	font-size: 9px;
+	color: #AFAFAF;
+	height: 35px;
+	width: 150px;
+	padding: 8px 5px;
+	background-color: #ffffff;
+  	box-shadow: 5px 5px 10px #EEEEEE;
+}
+
+.rules-checkbox {
+	opacity: 50%;
+}
+
+.rules {
+	font-size: 9px;
+	color: #AFAFAF;
+	margin-top: 30px;
+}
+
+.rules-link {
+	color: #3698FB;
+	opacity: 70%;
+}
+
+.create-account-color {
+	background-color: #3698FB;
+}
+
+.create-account-text {
+	font-size: 10px;
+	color: #ffffff;
+	align-self: center;
+	padding: 10px 40px;
+}
+
+.logo {
+	width: 100px;
+	z-index: 999999;
+	margin-top: -500px;
+}
